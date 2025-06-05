@@ -1,7 +1,0 @@
-global:
-  scrape_interval: 1s  # Adjust as needed
-
-scrape_configs:
-  - job_name: 'my-python-client'
-    static_configs:
-      - targets: ['localhost:8080']
