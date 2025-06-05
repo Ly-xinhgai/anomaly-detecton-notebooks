@@ -1,3 +1,6 @@
+# Project structrure
+
+```
 anomaly-detection-system/
 ├── config/
 │   ├── config.yml           # File cấu hình hệ thống
@@ -37,7 +40,7 @@ anomaly-detection-system/
 ├── requirements.txt         # Thư viện dependencies
 ├── Dockerfile               # Để chạy trong container
 └── README.md                # Hướng dẫn sử dụng
-
+```
 
 # Metric Query Server
 
