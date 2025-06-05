@@ -4,7 +4,6 @@ from scipy import stats
 from scipy.stats import ttest_ind
 import math
 
-
 # 1. SPIKE DETECTION ALGORITHMS
 
 def z_score(values: List[float], threshold: float = 2.0) -> List[bool]:
